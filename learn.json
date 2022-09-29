@@ -5,8 +5,9 @@
     "solution": "https://github.com/breatheco-de/todo-list-api-interactive/tree/solution",
     "repository": "https://github.com/breatheco-de/python-flask-api-tutorial",
     "preview": "https://github.com/breatheco-de/python-flask-api-tutorial/blob/master/.learn/assets/preview.png?raw=true",
+    "port": 3001,
     "duration": 6,
-    "grading": "incremental",
+    "grading": "isolated",
     "difficulty": "easy",
     "description": "Create a Todo list API Interactively using Python language and the Flask Framework",
     "technologies": [
